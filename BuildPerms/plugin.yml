@@ -1,0 +1,4 @@
+name: BuildPerms
+version: 1.0
+main: nl.gewoonhdgaming.bp.Main
+authors: [boykev, rens4000]
